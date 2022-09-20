@@ -22,6 +22,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* key matrix size */
 #define MATRIX_ROWS 9
 #define MATRIX_COLS 11
+#define DYNAMIC_KEYMAP_LAYER_COUNT 3
 
 /*
  * Keyboard Matrix Assignments
